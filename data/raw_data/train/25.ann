@@ -1,0 +1,6 @@
+T1	Chemical 31 32	氢
+T2	Container 82 85	反应器
+T3	Container 85 88	出口管
+T4	Container 90 93	反应器
+T5	Container 121 123	管道
+T6	Container 159 165	紧急泄压系统

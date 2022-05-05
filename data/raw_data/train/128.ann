@@ -1,0 +1,15 @@
+T1	Container 37 41	硝化装置
+T2	Chemical 131 133	硝酸
+T3	Chemical 136 138	甲苯
+T4	Chemical 170 175	二硝基甲苯
+T5	Chemical 181 186	三硝基甲苯
+T6	Container 196 201	静态分离器
+T7	Container 224 229	静态分离器
+T8	Chemical 261 266	一硝基甲苯
+T9	Container 266 268	储槽
+T10	Container 271 273	储罐
+T11	Container 282 287	静态分离器
+T12	Chemical 288 293	一硝基甲苯
+T13	Container 293 295	储槽
+T14	Chemical 317 319	甲苯
+T15	Container 319 321	储罐

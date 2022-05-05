@@ -1,0 +1,9 @@
+T1	Chemical 33 36	硫化氢
+T2	Chemical 73 76	硫化钠
+T3	Container 82 87	尾气吸收塔
+T4	Chemical 92 95	硫化钠
+T5	Chemical 96 100	碱性废水
+T6	Container 101 104	废水池
+T7	Chemical 108 112	酸性废水
+T8	Chemical 117 120	硫化氢
+T9	Container 133 136	抽滤槽

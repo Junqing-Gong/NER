@@ -1,0 +1,6 @@
+T2	Container 31 34	换热器
+T3	Container 61 65	废热锅炉
+T1	Container 18 22	废热锅炉
+T4	Container 70 73	高压管
+T5	Container 85 88	高压管
+T6	Chemical 92 93	氢

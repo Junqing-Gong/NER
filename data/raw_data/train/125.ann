@@ -1,0 +1,6 @@
+T1	Container 26 29	换热器
+T2	Container 72 75	换热器
+T3	Container 107 110	换热器
+T4	Container 113 117	丁字形管
+T5	Chemical 126 130	可燃气体
+T6	Chemical 131 137	有毒有害气体

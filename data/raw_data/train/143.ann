@@ -1,0 +1,9 @@
+T2	Container 97 101	脱丙烷塔
+T3	Chemical 98 100	丙烷
+T4	Container 110 114	输气管线
+T5	Chemical 140 144	烃类蒸气
+T6	Container 155 158	加热炉
+T7	Container 171 176	脱丙烷装置
+T8	Container 177 180	CCU
+T1	Container 38 41	CCU
+T9	Container 31 37	催化裂化装置

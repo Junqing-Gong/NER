@@ -1,0 +1,7 @@
+T1	Container 32 38	常压凝水储罐
+T2	Container 81 85	冷凝水罐
+T3	Container 98 102	脱丁烷塔
+T4	Chemical 99 101	丁烷
+T5	Chemical 112 115	正丁烷
+T6	Chemical 127 134	爆炸性混合气体
+T7	Container 139 140	罐

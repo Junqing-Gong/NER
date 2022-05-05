@@ -1,0 +1,10 @@
+T1	Chemical 33 36	氯乙烯
+T2	Container 65 68	转化器
+T3	Container 77 80	补水阀
+T4	Container 81 84	旁通阀
+T5	Container 85 88	溢流阀
+T6	Container 89 94	蒸汽回流阀
+T7	Chemical 97 100	氯化氢
+T8	Chemical 101 103	乙炔
+T9	Chemical 112 115	氯乙烯
+T10	Container 130 133	转化器

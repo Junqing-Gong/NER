@@ -1,0 +1,11 @@
+{
+  "O": 0,
+  "B-Chemical": 1,
+  "B-Container": 2,
+  "I-Chemical": 3,
+  "I-Container": 4,
+  "E-Chemical": 5,
+  "E-Container": 6,
+  "S-Chemical": 7,
+  "S-Container": 8
+}

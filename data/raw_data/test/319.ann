@@ -1,0 +1,15 @@
+T1	Chemical 32 34	氯苯
+T2	Chemical 79 81	氯苯
+T3	Container 81 84	回收塔
+T4	Chemical 86 92	AO-导热油
+T5	Container 92 95	换热器
+T6	Chemical 102 105	导热油
+T7	Chemical 113 115	氯苯
+T8	Chemical 122 124	氯苯
+T9	Container 124 127	回收塔
+T10	Chemical 147 149	氯苯
+T11	Container 149 152	回收塔
+T12	Container 168 173	温控调节阀
+T13	Container 184 187	截止阀
+T14	Container 190 193	回收塔
+T15	Container 221 224	截止阀

@@ -1,0 +1,14 @@
+T1	Chemical 22 23	苯
+T2	Chemical 87 89	苯胺
+T3	Chemical 92 95	硝基苯
+T4	Chemical 113 117	粗硝基苯
+T5	Container 124 127	预热器
+T6	Container 134 137	预热器
+T7	Chemical 145 148	硝基苯
+T8	Container 169 172	预热器
+T9	Chemical 182 186	粗硝基苯
+T10	Container 186 189	进料泵
+T11	Container 196 199	预热器
+T12	Container 213 216	预热器
+T13	Container 220 222	法兰
+T14	Container 240 243	精馏塔

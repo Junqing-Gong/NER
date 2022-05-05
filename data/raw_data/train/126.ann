@@ -1,0 +1,8 @@
+T1	Container 48 53	铜洗再生器
+T2	Chemical 79 80	氨
+T3	Container 80 83	回收塔
+T4	Container 83 86	出口阀
+T5	Container 99 101	气柜
+T6	Chemical 96 99	水煤气
+T7	Chemical 109 111	煤气
+T8	Container 118 121	再生器

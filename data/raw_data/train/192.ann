@@ -1,0 +1,6 @@
+T1	Chemical 20 24	对二氯苯
+T2	Chemical 62 64	氯气
+T3	Chemical 65 66	苯
+T4	Container 80 85	氯化反应器
+T5	Container 89 91	气相
+T6	Chemical 100 102	氯气

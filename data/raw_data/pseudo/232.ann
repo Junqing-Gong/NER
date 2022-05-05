@@ -1,0 +1,8 @@
+T1	Container 60 64	脱乙烷塔
+T2	Chemical 61 63	乙烷
+T3	Container 65 68	回流罐
+T4	Chemical 70 73	硫化氢
+T5	Container 99 100	罐
+T6	Chemical 138 140	乙烷
+T7	Chemical 141 143	丙烷
+T8	Chemical 160 162	氧气

@@ -1,0 +1,13 @@
+T1	Chemical 37 39	甲醇
+T2	Chemical 52 54	氮气
+T3	Chemical 83 85	氮气
+T4	Container 85 87	储罐
+T5	Container 100 103	电磁阀
+T6	Container 108 110	储罐
+T7	Chemical 111 113	氮气
+T8	Container 129 131	管线
+T9	Chemical 127 129	氮气
+T10	Chemical 137 139	氮气
+T11	Container 139 141	管线
+T12	Chemical 173 175	氮气
+T13	Chemical 255 257	氮气
